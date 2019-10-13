@@ -11,9 +11,14 @@ public class Test1 {
 
 		System.out.println("completed the changes requested");
 		System.out.println("adding feature 1 to the master");	
-	
 		System.out.println("adding feature 2 to the master");
+
 		System.out.println("addding feature 6 to the master");
+
+		System.out.println("adding feature 5 to the master");
+		
+
+
 		System.out.println("say Hello from Branch");
 		System.out.println("adding additonal line inthe next branch");
 		
